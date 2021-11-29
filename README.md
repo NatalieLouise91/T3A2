@@ -108,6 +108,8 @@ Users can view their scheduled events
 
 ## Admin User Desktop Wireframes: Read & Delete Events
 
+![admin-desktop-wireframes-part3](admin-desktop-wireframes-part1.png)
+
 ## Admin User Tablet Wireframes: Create & Update Events Rosters
 
 ## Admin User Tablet Wireframes: Delete Individual Shifts
