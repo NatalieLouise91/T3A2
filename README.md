@@ -77,7 +77,7 @@ MUI started back in 2014, to unify React and Material Design and offers a comple
 
 ### Standard User DFD
 
-![standard-user-DFD](./docs/standard-DFD.png)
+![standard-user-DFD](./docs/standard-user-DFD.png)
 
 ### Admin User DFD - Create and Read Features
 
@@ -141,6 +141,10 @@ MUI started back in 2014, to unify React and Material Design and offers a comple
 -  As a user I want process confirmations so that I know when something has been selected or completed
 
 # Wireframes
+
+## User Registration Desktop, Tablet & Mobile
+
+![user-registration-wireframes](./docs/user-registration-wireframes.png)
 
 ## Standard User Mobile Wireframes
 
