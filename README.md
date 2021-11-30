@@ -54,6 +54,10 @@ Specific target audience personas are portrayed in the app by implementing featu
 
 ## Tech Stack
 
+## Architecture Diagram
+
+![app-architecture-diagram](./docs/app-architecture-diagram.png)
+
 ## Dataflow Diagram
 
 ### Standard User DFD
