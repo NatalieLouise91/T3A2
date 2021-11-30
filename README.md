@@ -48,6 +48,10 @@ Users can view their scheduled events
 
 ## Target Audience
 
+Given this app is being created to solve a specific problem within a Sydney based events and catering business called Shared Affair, the target audience are the managers and employees within the business.
+
+Specific target audience personas are portrayed in the app by implementing features for the different job roles and responsibilities of users including features and functionality for managers (admins in the system) or general employees (users in the system). These two groups of users make up the target audience and are being considered throughout the planning and build process.
+
 ## Tech Stack
 
 ## Dataflow Diagram
