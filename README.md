@@ -57,7 +57,7 @@ Specific target audience personas are portrayed in the app by implementing featu
 
 React.js will be used to build the user interface. While React.js is a requirement of this assignment, we’re also choosing to use this JavaScript library because of its simple component based infrastructure and available methods to easily manage UI state, rendering and re-rendering.
 
-#### Rails 
+#### Rails
 
 We have chosen to use Rails for the backend CRUD operations and routes as it uses the MVC architecture allowing for a straight forward implementation and integration of the back end as well as it’s simple integration to React through either web packer and the react-rails gem, or using the Rails API.
 
@@ -67,7 +67,7 @@ Postgresql will be used for the database as it is a powerful, open source object
 
 #### Material UI
 
-MUI started back in 2014, to unify React and Material Design and offers a complete styling library for react. 
+MUI started back in 2014, to unify React and Material Design and offers a complete styling library for react.
 
 ## Architecture Diagram
 
@@ -86,10 +86,6 @@ MUI started back in 2014, to unify React and Material Design and offers a comple
 ### Admin User DFD - Search and Update Features
 
 ![admin-user-search-update-features](./docs/admin-search-update-DFD.png)
-
-## Application Architecture Diagram
-
-![application-architecture-diagram](./docs/architecture-diagram.png)
 
 ## User Stories
 
