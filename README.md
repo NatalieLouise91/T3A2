@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Shared Affair is an event planning and catering company that services approximately 200 events a year. These events require meticulous planning and as the business scales the current planning and scheduling process is becoming outdated, slow, and unreliable.
+Skemi (pronounced ske-mi) is an event planning and scheduling app built for a sydney based company that plans and services approximately 200 events a year. These events require meticulous organisation and as the business scales, current planning and scheduling processes have become outdated, slow, and unreliable.
 
 The purpose of this app is to streamline the event planning process for Shared Affair by replacing the current procedure and tools in place; they currently use google calendar, excel spreadsheets and direct communication. The app will allow admins to easily create and roster events as well as provide a streamlined method for employees to track upcoming events, allow employees to self register for work, provide relevant event information including other rostered employees, food lists and custom notes, and provide a way to easily track upcoming work schedules.
 
