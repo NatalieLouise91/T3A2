@@ -12,38 +12,37 @@ While a business can set different locations, the information associated to the 
 
 ## Functionality and Features
 
-Account Authentication
+### Account Authentication
 
-Secure account creation
-Authentication through third party API
-Simple log in/out (saving secure account data)
-Admin and standard user permissions
-Password and account recovery
+- Secure account creation
+- Authentication through third party API
+- Simple log in/out (saving secure account data)
+- Admin and standard user permissions
+- Password and account recovery
 
-Event record creation
+### Event record creation
 
-Create a record for an event that logs and tracks time and location details, rostered employees, notes, attached documents.
+Create a record for an event that logs and tracks time, location details and rostered employees. 
 
-Event record interaction (non-admin users)
+### Event record interaction (non-admin users)
 
-Users can interact with all created events including relevant details, information and documentation/attachments
-Users can schedule themselves to work an event
-Users can view and download attached documents
-Users can delete themselves from an event roster
-Users can comment on event records
-Event record interaction (Admin users)
+Users can interact with all created events including relevant details and information.  
 
-Admin users can update event details and information
-Admin users can delete an event
-Admin users can update an event roster
-Admin users can delete shifts and rosters
+- Users can schedule themselves to work an event
 
-UI
+### Event record interaction (Admin users)
 
-Users (admin and standard) can interact with a navigation bar and page links
-Users are notified when an action is completed on event records (pop up confirmations)
-Users can view future scheduled events
-Users can view their scheduled events
+- Admin users can update event details and information
+- Admin users can delete an event
+- Admin users can update an event roster
+- Admin users can delete shifts and rosters
+
+### UI
+
+- Users (admin and standard) can interact with a navigation bar and page links
+- Users are notified when an action is completed on event records (pop up confirmations)
+- Users can view future scheduled events
+- Users can view their scheduled events
 
 ## Target Audience
 
@@ -146,6 +145,8 @@ MUI started back in 2014, to unify React and Material Design and offers a comple
 
 ![user-registration-wireframes](./docs/user-registration-wireframes.png)
 
+**Note:** - the first user created for the application is the default administration user and will have administrative permissions. All other users after are defaulted to standard users. 
+
 ## Standard User Mobile Wireframes
 
 ![standard-user-mobile-wireframes](./docs/standard-mobile-wireframes.png)
@@ -223,3 +224,8 @@ MUI started back in 2014, to unify React and Material Design and offers a comple
 ### Monday 29-11-21
 
 ![monday-29-11-21](./docs/monday-29-11-21.png)
+
+### Tuesday 30-11-21
+
+![tuesday-30-11-21](./docs/tuesday-30-11-21.png)
+
